@@ -1,0 +1,16 @@
+{
+  "name": "ditto_server_node",
+  "version": "1.0.0",
+  "description": "Ditto server - websocket test app server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sisax",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
